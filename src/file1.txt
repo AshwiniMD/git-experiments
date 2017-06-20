@@ -1,11 +1,11 @@
-#cricket
-Sachin Tendulkar
-
 #badminton
 Saina Nehwal
 
-#tennis
-Leander Peas
+#cricket
+Sachin Tendulkar
 
 #hockey
 Dhanraj Pillay
+
+#tennis
+Leander Peas
