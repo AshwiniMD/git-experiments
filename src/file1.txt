@@ -3,6 +3,7 @@ Saina Nehwal
 
 #cricket
 Sachin Tendulkar
+Virat Kohli
 
 #hockey
 Dhanraj Pillay
