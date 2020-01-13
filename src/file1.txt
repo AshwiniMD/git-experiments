@@ -13,3 +13,6 @@ Leander Peas
 
 #chess
 Vishwanathan Anand
+
+#snooker
+Pankaj Advani
